@@ -1,3 +1,15 @@
+# Ignore large data files
+hr1_clean.txt
+hr1_text.txt
+replacements.txt
+
+# Ignore editor temp files
+*.swp
+*.swo
+
+# Assets directory (screenshots)
+assets/
+
+# Local config
 .env
-__pycache__/
-*.pyc
+*.env
